@@ -11,5 +11,5 @@ while running:
   i = i + 1
 
 """
-Adjust the speed.
+Adjust the speed in the time.sleep(0.01)
 """
